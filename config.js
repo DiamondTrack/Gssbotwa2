@@ -22,11 +22,11 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
+global.ownername = 'Aldi Setiadi :>';
+global.owner = ['628128240742', '6289517617269'];
+global.premium = ['6281282140743', '6289517617269', '6283184120534'];
+global.packname = 'Dibikinin';
+global.author = 'botnya Aldi';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
@@ -59,7 +59,7 @@ global.limitawal = {
 // Add anticall option
 global.config = {
     options: {
-        antiCall: true, // Set to true for anticall functionality, false otherwise
+        antiCall: false, // Set to true for anticall functionality, false otherwise
     },
 };
 
